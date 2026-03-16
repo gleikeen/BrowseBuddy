@@ -1,0 +1,82 @@
+{
+  "extName": {
+    "message": "BrowseBuddy",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "AI-powered browser automation - smart form filling, workflow recording, and natural language browser control",
+    "description": "Extension description"
+  },
+  "configureApiKey": {
+    "message": "Configure your API key to get started.",
+    "description": "Prompt to configure API key"
+  },
+  "validate": {
+    "message": "Validate & Save",
+    "description": "Validate button text"
+  },
+  "validating": {
+    "message": "Validating...",
+    "description": "Validating state text"
+  },
+  "keyValid": {
+    "message": "Key validated and saved",
+    "description": "Success message"
+  },
+  "keyInvalid": {
+    "message": "Key is invalid, please check and try again",
+    "description": "Error message for invalid key"
+  },
+  "openSidePanel": {
+    "message": "Open Side Panel",
+    "description": "Button to open side panel"
+  },
+  "pleaseConfigureKey": {
+    "message": "Please configure API Key first",
+    "description": "Warning when no key configured"
+  },
+  "chat": {
+    "message": "Chat",
+    "description": "Chat tab label"
+  },
+  "workflows": {
+    "message": "Workflows",
+    "description": "Workflows tab label"
+  },
+  "startRecording": {
+    "message": "Start Recording",
+    "description": "Start recording button"
+  },
+  "stopRecording": {
+    "message": "Stop Recording",
+    "description": "Stop recording button"
+  },
+  "replay": {
+    "message": "Replay",
+    "description": "Replay button"
+  },
+  "export": {
+    "message": "Export",
+    "description": "Export button"
+  },
+  "delete": {
+    "message": "Delete",
+    "description": "Delete button"
+  },
+  "typeMessage": {
+    "message": "Type a message...",
+    "description": "Input placeholder"
+  },
+  "send": {
+    "message": "Send",
+    "description": "Send button"
+  },
+  "thinking": {
+    "message": "Thinking...",
+    "description": "AI thinking indicator"
+  },
+  "pageNotSupported": {
+    "message": "Current page is not supported",
+    "description": "Message for unsupported pages"
+  }
+}

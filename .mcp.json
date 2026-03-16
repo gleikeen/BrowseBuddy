@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "overmind": {
+      "command": "npx",
+      "args": [
+        "@music/overmind-mcp"
+      ]
+    }
+  }
+}
