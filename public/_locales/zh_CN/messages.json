@@ -1,0 +1,82 @@
+{
+  "extName": {
+    "message": "BrowseBuddy",
+    "description": "扩展名称"
+  },
+  "extDescription": {
+    "message": "AI 驱动的浏览器自动化 - 智能表单填充、流程录制回放、自然语言浏览器控制",
+    "description": "扩展描述"
+  },
+  "configureApiKey": {
+    "message": "请先配置 API Key 以开始使用",
+    "description": "配置 API Key 提示"
+  },
+  "validate": {
+    "message": "验证并保存",
+    "description": "验证按钮文本"
+  },
+  "validating": {
+    "message": "验证中...",
+    "description": "验证中状态文本"
+  },
+  "keyValid": {
+    "message": "Key 验证通过，已保存",
+    "description": "成功消息"
+  },
+  "keyInvalid": {
+    "message": "Key 无效，请检查后重试",
+    "description": "Key 无效错误消息"
+  },
+  "openSidePanel": {
+    "message": "打开侧边栏",
+    "description": "打开侧边栏按钮"
+  },
+  "pleaseConfigureKey": {
+    "message": "请先配置 API Key",
+    "description": "未配置 Key 时的提示"
+  },
+  "chat": {
+    "message": "对话",
+    "description": "对话标签页"
+  },
+  "workflows": {
+    "message": "流程",
+    "description": "流程标签页"
+  },
+  "startRecording": {
+    "message": "开始录制",
+    "description": "开始录制按钮"
+  },
+  "stopRecording": {
+    "message": "停止录制",
+    "description": "停止录制按钮"
+  },
+  "replay": {
+    "message": "回放",
+    "description": "回放按钮"
+  },
+  "export": {
+    "message": "导出",
+    "description": "导出按钮"
+  },
+  "delete": {
+    "message": "删除",
+    "description": "删除按钮"
+  },
+  "typeMessage": {
+    "message": "输入消息...",
+    "description": "输入框占位符"
+  },
+  "send": {
+    "message": "发送",
+    "description": "发送按钮"
+  },
+  "thinking": {
+    "message": "思考中...",
+    "description": "AI 思考指示器"
+  },
+  "pageNotSupported": {
+    "message": "当前页面不支持",
+    "description": "不支持的页面提示"
+  }
+}
