@@ -19,6 +19,9 @@ BrowseBuddy is a Chrome extension that combines AI-powered page understanding wi
 
 BrowseBuddy 的目标是让用户用一句话就能完成这些操作，不需要写脚本，不需要学 API。
 
+<img width="780" height="1914" alt="image" src="https://github.com/user-attachments/assets/28ccb145-f144-46f2-998e-8c19cefdfb99" />
+
+
 ## 核心功能
 
 | 功能 | 说明 |
